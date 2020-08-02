@@ -7,6 +7,7 @@ The [suckless dmenu (dynamic menu for X)](https://tools.suckless.org/dmenu/).
 + center
 + grid
 + highlight
++ numbers
 + xyw
 
 ## Configuration
