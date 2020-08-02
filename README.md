@@ -5,6 +5,7 @@ The [suckless dmenu (dynamic menu for X)](https://tools.suckless.org/dmenu/).
 ## Patches applied
 
 + center
++ grid
 + highlight
 + xyw
 
