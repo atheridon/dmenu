@@ -12,10 +12,10 @@ static const char *prompt      = NULL;      /* -p  option; prompt to the left of
 static const char *colors[SchemeLast][2] = {
 	/*     fg         bg       */
 	[SchemeNorm] = { "#ffffff", "#222222" },
-	[SchemeSel] = { "#000000", "#ffff00" },
-	[SchemeOut] = { "#000000", "#ffff00" },
-	[SchemeSelHighlight] = { "#000000", "#ffff00" },
-        [SchemeNormHighlight] = { "#000000", "#ffff00" },
+	[SchemeSel] = { "#ffffff", "#1303fc" },
+	[SchemeOut] = { "#ffffff", "#1303fc" },
+	[SchemeSelHighlight] = { "#ffffff", "#1303fc" },
+    [SchemeNormHighlight] = { "#ffffff", "#1303fc" },
 };
 /* -l and -g options; controls number of lines and columns in grid if > 0 */
 static unsigned int lines      = 0;
