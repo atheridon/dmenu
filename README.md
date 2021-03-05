@@ -1,4 +1,4 @@
-# Atheridon's fork of dmenu 
+# Fork of dmenu 
 
 The [suckless dmenu (dynamic menu for X)](https://tools.suckless.org/dmenu/).
 
